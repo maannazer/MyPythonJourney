@@ -1,2 +1,2 @@
 # MyPythonJourney
-The source to my journey in programming using python.
+The source file to my python programming journey.
